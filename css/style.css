@@ -1,0 +1,17 @@
+body {
+  background-color: bisque;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  display: block;
+  margin: 8px;
+}
+
+a {
+  margin: 0px 10px;
+  color: black;
+}
+
+a:visited {
+    color: black;
+}
+
